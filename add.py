@@ -3,3 +3,4 @@ b=int(input("Enter second number : "))
 c=a+b
 print("Addition : ",c)
 print("Added lines to GitHub account")
+print("code added by pratibha")
